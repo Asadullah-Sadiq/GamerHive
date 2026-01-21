@@ -1,0 +1,20 @@
+// types.ts
+export type PageType =
+  | "home"
+  | "profile"
+  | "communities"
+  | "joinCommunity"
+  | "tournaments"
+  | "gameBorrowing"
+  | "settings"
+  | "notifications"
+  | "friendsList"
+  | "friendRequests"
+  | "friendMessaging"
+  | "privacy"
+  | "contact"
+  | "about"
+  | "ptpMessaging"
+  | "feedback"
+  | "adminAnalytics"
+  | "adminUsers";
